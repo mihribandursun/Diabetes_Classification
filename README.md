@@ -37,5 +37,3 @@ AdaBoost (Adaptive Boosting), "zayıf öğrenicileri" (genellikle **decision stu
 - **AdaBoost Performansı:** AdaBoost, medyan ile doldurulmuş (daha büyük) veri setinde daha stabil bir performans sergilemiştir. Hiperparametre optimizasyonu (`learning_rate: 1.0`, `n_estimators: 100`) ile başarısı %75.56'ya yükseltilmiştir.
 - **En İyi Model:** Deney sonucunda elde edilen en yüksek başarı oranı, silinmiş veri seti üzerinde optimize edilen **SVC (%79.26)** modeline aittir.
 
----
-*Bu çalışma İstanbul Gedik Üniversitesi Bilgisayar Mühendisliği dersi kapsamında bir ödev projesi olarak hazırlanmıştır.*
